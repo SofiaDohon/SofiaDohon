@@ -1,3 +1,17 @@
+# 👋 Hi there, I'm Sofia!
+
+🎓 I'm a Computer Science student at The Open University  
+💼 Working in Technical Support  
+🧠 Passionate about learning, growing and solving problems  
+🏃‍♀️ Also a long-distance runner and tech enthusiast  
+
+## 🔧 Currently Learning
+- Java, Algorithms, Problem Solving
+
+
+## 📫 Reach me at:
+📧 soniasonchik97@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sofia-dochon-a9374a250)
 ## Hi there 👋
 
 <!--
