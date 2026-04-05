@@ -1,8 +1,8 @@
-# Hi, I'm Sophia! 👋
+# Hi, I'm Sofia! 👋
 
 **Team Lead | Operations & Tech | Marathon Runner**
 
-I am a professional **Team Lead** managing a large-scale technical support operations center. I focus on leadership, process optimization, and leveraging technology to solve real-world problems.
+I am a professional **Team Lead** managing a large scale technical support operations center. I focus on leadership, process optimization, and leveraging technology to solve real-world problems.
 
 ### 🚀 Focus & Learning
 - 🐍 **Python Programming:** Building a solid foundation in Python for automation and data.
