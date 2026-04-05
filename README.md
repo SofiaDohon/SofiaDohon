@@ -1,46 +1,17 @@
-<h1 align="center">👋 Hey there, I'm Sofia!</h1>
-<p align="center">
-💻 Computer Science Student • 🧠 Tech Enthusiast • 📍 Based in Tel Aviv
-</p>
+# Hi, I'm Sophia! 👋
 
----
+**Team Lead | Operations & Tech | Marathon Runner**
 
-### 👩‍🎓 About Me
-I'm a Computer Science student at the Open University of Israel with a background in technical support, military leadership, and healthcare.
+I am a professional **Team Lead** managing a large-scale technical support operations center. I focus on leadership, process optimization, and leveraging technology to solve real-world problems.
 
-My passion for solving problems and understanding systems led me to pursue a career in technology. I'm currently learning programming (Java & Python) and exploring various areas in tech at my own pace.
+### 🚀 Focus & Learning
+- 🐍 **Python Programming:** Building a solid foundation in Python for automation and data.
+- ⚙️ **Process Automation:** Exploring ways to make technical support workflows faster and smarter.
+- 📈 **Leadership:** Managing teams and driving performance in high-pressure environments.
 
----
+### 🏃‍♀️ Beyond the Screen
+When I'm not leading my team or exploring code, you'll find me on the trails.
+- 🏁 **Marathon Finisher:** Completed the Dead Sea & Tel Aviv Marathons (Feb 2026).
+- 🏔️ **Trail Running:** Currently training for the **Andorra by UTMB** (25km).
+- I believe the grit and discipline of long distance running are the same qualities needed to master any technical challenge.
 
-### 💡 What I'm Learning
-- Java and Object-Oriented Programming
-- Algorithms and Data Structures
-- Git & GitHub
-- Python Basics
-
----
-
-### 💼 Experience
-- **Technical Support Representative** at Taldor  
-  Providing assistance to users and solving technical issues  
-- **Dental Assistant** (Former)  
-  Organized, precise, and team-oriented work in clinical settings  
-- **IDF Commander** – led a medical unit of 25 soldiers
-
----
-
-### ✨ Fun Facts
-- 🏃‍♀️ I love running – it clears my mind and keeps me focused  
-- ☕ I'm a morning person who believes in persistence over perfection  
-- 🧩 I enjoy figuring out how systems work and improving them
-
----
-
-### 📫 Let's Connect
-- 📧 Email: soniasonchik97@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sofia-dochon-a9374a250)  
-- 🗂️ [My Projects](https://github.com/SofiaDohon?tab=repositories)
-
----
-
-<p align="center">🧠 Keep learning. Stay curious. Believe in yourself.</p>
